@@ -14,6 +14,16 @@ public:
         this->isBlack = isBlack;
     }
 
+    bool getIsBlack()
+    {
+        return isBlack;
+    }
+
+    void setIsBlack(bool isBlack)
+    {
+        this->isBlack = isBlack;
+    }
+
 private:
     bool isBlack;
 };
