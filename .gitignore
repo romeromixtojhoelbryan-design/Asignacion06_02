@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+
+# Archivos de compilación
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.lastbuildstate
+
+# Archivos de usuario de Visual Studio
+*.vcxproj.user
